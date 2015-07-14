@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AndroidMaterialsProject</string>
+
+    <string name="hello_world">This is my toolbar</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="second_page">Second Activity</string>
+
+
+
+    <string name="facebook">Facebook</string>
+    <string name="youtube">Youtube</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="googleplus">Google+</string>
+    <string name="whatsapp">Whatsapp</string>
+    <string name="img_view">img_view</string>
+
+</resources>

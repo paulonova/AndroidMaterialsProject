@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="Theme.MyTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Set AppCompat’s actionBarStyle -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+
+        <!-- Set AppCompat’s color theming attrs -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="colorControlNormal">@android:color/white</item>
+
+        <!-- The rest of your attributes -->
+    </style>
+
+    <style name="Theme.MyThemeBottom" parent="Theme.MyTheme">
+        <item name="colorPrimary">@android:color/white</item>
+
+
+    </style>
+
+</resources>

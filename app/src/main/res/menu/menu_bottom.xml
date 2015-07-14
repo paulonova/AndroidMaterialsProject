@@ -1,0 +1,42 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/action_facebook"
+        android:title="@string/facebook"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_facebook"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_youtube"
+        android:title="@string/youtube"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_youtube"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_google_plus"
+        android:title="@string/googleplus"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_googleplus"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_linkedin"
+        android:title="@string/linkedin"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_linkedin"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_whatsapp"
+        android:title="@string/whatsapp"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_whatsup"
+        app:showAsAction="always" />
+
+
+</menu>
